@@ -1,0 +1,10 @@
+{
+  "half_spread_frac": 0.00013092015613807992,
+  "sigma_bar": 0.004200112235972216,
+  "impacto_promedio_frac": 1.4406539714305471e-05,
+  "friccion_total_frac_por_lado": 0.00014532669585238538,
+  "pnl_original": -938407.5973229666,
+  "pnl_con_friccion": -1050751.574212861,
+  "costo_friccion_total": 112343.97688989449,
+  "n_operaciones": 1180
+}
