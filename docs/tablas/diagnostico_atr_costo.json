@@ -1,0 +1,10 @@
+{
+  "atr_window": 16,
+  "costo_ida_vuelta": 0.0025,
+  "atr_frac_precio_mediana": 0.0007442504491789644,
+  "atr_frac_precio_p25": 0.0004777146510966566,
+  "atr_frac_precio_p75": 0.0011640751329208407,
+  "tp_mult_equilibrio_mediana": 3.359084301202542,
+  "tp_mult_equilibrio_p25": 5.233249585837324,
+  "tp_mult_equilibrio_p75": 2.1476276997062222
+}

@@ -1,0 +1,51 @@
+{
+  "train": {
+    "nombre": "btc_project_train.csv",
+    "n_filas": 166450,
+    "fecha_inicio": "2022-06-01 00:00:00",
+    "fecha_fin": "2023-12-31 00:00:00",
+    "n_ohlc_vacio": 3745,
+    "racha_vacio_maxima_barras": 270,
+    "n_streaks_vacio": 272,
+    "n_offgrid": 573,
+    "n_barras_planas": 3355,
+    "pct_volumen_vacio": 0.47476118954641033,
+    "huecos_grandes": [
+      {
+        "inicio": "2023-03-12 01:55:00",
+        "fin": "2023-03-12 03:00:00",
+        "duracion_horas": 1.0833333333333333
+      },
+      {
+        "inicio": "2023-03-25 23:55:00",
+        "fin": "2023-03-28 00:00:00",
+        "duracion_horas": 48.083333333333336
+      }
+    ],
+    "gmtoffset_unico": [
+      0
+    ]
+  },
+  "test": {
+    "nombre": "btc_project_test.csv",
+    "n_filas": 9387,
+    "fecha_inicio": "2023-12-31 00:00:00",
+    "fecha_fin": "2024-06-03 03:27:00",
+    "n_ohlc_vacio": 17,
+    "racha_vacio_maxima_barras": 4,
+    "n_streaks_vacio": 9,
+    "n_offgrid": 3,
+    "n_barras_planas": 29,
+    "pct_volumen_vacio": 0.5161393416426974,
+    "huecos_grandes": [
+      {
+        "inicio": "2023-12-31 23:55:00",
+        "fin": "2024-05-02 13:30:00",
+        "duracion_horas": 2941.5833333333335
+      }
+    ],
+    "gmtoffset_unico": [
+      0
+    ]
+  }
+}

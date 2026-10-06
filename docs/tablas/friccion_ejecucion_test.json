@@ -1,0 +1,10 @@
+{
+  "half_spread_frac": 0.00013092015613807992,
+  "sigma_bar": 0.004200112235972216,
+  "pnl_original": -20767.891800973357,
+  "n_operaciones": 42,
+  "costo_friccion_min": 1561.982654318373,
+  "costo_friccion_max": 1775.8739204807302,
+  "pnl_con_friccion_min": -22543.76572145409,
+  "pnl_con_friccion_max": -22329.87445529173
+}

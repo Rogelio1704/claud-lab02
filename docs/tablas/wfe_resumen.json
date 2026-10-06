@@ -1,0 +1,10 @@
+{
+  "wfe_media": 57481.50749652634,
+  "wfe_mediana": -0.656845264162317,
+  "n_observaciones_wfe": 46,
+  "n_combinaciones_totales": 222,
+  "pct_calmar_oos_positivo": 0.20634920634920634,
+  "n_combinaciones_con_oos": 126,
+  "calmar_is_mediana": -7.491849314272316,
+  "calmar_oos_mediana": -33.74632413486404
+}

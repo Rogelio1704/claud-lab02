@@ -1,0 +1,7 @@
+{
+  "silhouette_promedio": 0.39867397124980297,
+  "silhouette_ultima_ventana": 0.3508242202900417,
+  "objetivo_silhouette_cumplido": false,
+  "duracion_media_minima_train_horas": 52.98555555555556,
+  "objetivo_persistencia_cumplido": true
+}
